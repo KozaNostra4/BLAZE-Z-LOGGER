@@ -52,11 +52,11 @@ BLAZE Z COMMUNITY ! DISCORD BOT THAT WORKING WITH AUDIT LOGS!
 
 **-----------------------------------------------**
 
-** BLAZE Z LOGGER BOT! **
+**BLAZE Z LOGGER BOT!**
 
-** ----------------------------------------------- * *
+**-----------------------------------------------**
 
-** Discord Bot Contains: **
+**Discord Bot Contains:**
 
 `Welcome & Leave Message`
 
@@ -74,30 +74,30 @@ BLAZE Z COMMUNITY ! DISCORD BOT THAT WORKING WITH AUDIT LOGS!
 
 `Unban Logs!`
 
-** ----------------------------------------------- * *
+**-----------------------------------------------**
 
-** To set up the bot you must: **
+**To set up the bot you must:**
 
-Download node.js and Visual Studio Code
+**__Download node.js and Visual Studio Code__**
 
 `Step 1: Create a folder and put the files inside!`
 
-Step 2 With shit + right click on the mouse in the folder: a window opens, in there you open the PowerShell window.`
+`Step 2 With shit + right click on the mouse in the folder: a window opens, in there you open the PowerShell window.`
 
-Step 3 In the PowerShell window run npm install discord.js.
+`Step 3 In the PowerShell window run npm install discord.js.`
 
-Step 4 Once you have pressed enter on all, run npm init. Press enter on everything! `
+`Step 4 Once you have pressed enter on all, run npm init. Press enter on everything!`
 
 `Step 5 Write npm i moment-timezone as soon as the init is finished!`
 
 `6th Step In the config.json you give the information you need!`
 
-Step 7 In Visual Studio Code open a terminal and run the `` node index.js` command`
+`Step 7 In Visual Studio Code open a terminal and run the ` `node index.js` `command`
 
-Step 8 In your DISCORD SERVER you create a VOICE channel!
+`Step 8 In your DISCORD SERVER you create a VOICE channel!`
 
-** Ready! **
+**Ready!**
 
-** For any questions or problems you will encounter contact KozaNostra # 4444 at Discord! **
+**For any questions or problems you will encounter contact KozaNostra # 4444 at Discord!**
 
-** ----------------------------------------------- * * 
+**-----------------------------------------------** 
