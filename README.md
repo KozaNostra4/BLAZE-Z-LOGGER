@@ -42,9 +42,9 @@ BLAZE Z COMMUNITY ! DISCORD BOT THAT WORKING WITH AUDIT LOGS!
 
 `6o Βήμα Μέσα στο config.json δίνετε τα στοιχεία που χρειάζονται!`
 
-`7ο Βήμα Μέσα στο Visual Studio Code ανοίγετε ένα terminal και τρέχετε την εντολή ` `node index.js`
+`7ο Βήμα Μέσα στο Visual Studio Code ανοίγετε ένα terminal και τρέχετε την εντολή:` `node index.js`
 
-`8ο Βήμα Στο DISCORD SERVER σας δημιουργείτε ένα κανάλι VOICE !
+`8ο Βήμα Στο DISCORD SERVER σας δημιουργείτε ένα κανάλι VOICE !`
 
 **Έτοιμοι!**
 
@@ -92,7 +92,7 @@ BLAZE Z COMMUNITY ! DISCORD BOT THAT WORKING WITH AUDIT LOGS!
 
 `6th Step In the config.json you give the information you need!`
 
-`Step 7 In Visual Studio Code open a terminal and run the ` `node index.js` `command`
+`Step 7 In Visual Studio Code open a terminal and run the:` `node index.js` `command`
 
 `Step 8 In your DISCORD SERVER you create a VOICE channel!`
 
